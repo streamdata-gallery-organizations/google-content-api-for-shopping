@@ -1,9 +1,9 @@
-title: Streamdata Gallery
-url: google-content-api-for-shopping.api.streamdata.gallery
+title: Streamdata Gallery Google Content API for Shopping
+url: google-content-api-for-shopping.streamdata.gallery
 tag: Google Content API for Shopping
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery-organizations
+github_user: streamdata-gallery
 github_repo: google-content-api-for-shopping
 github_branch: master
 collections:
