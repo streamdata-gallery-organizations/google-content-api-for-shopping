@@ -10,10 +10,10 @@ description: 'API allowing retailers to manage their product feed content progra
   programming languages and data formats.'
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Google-shopping-API1.jpg
 x-kinRank: "9"
-x-alexaRank: ""
+x-alexaRank: "0"
 tags: Google Content API for Shopping
-created: "2018-05-21"
-modified: "2018-05-21"
+created: "2018-06-20"
+modified: "2018-06-20"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/google-content-api-for-shopping/master/_listings/google-content-api-for-shopping/apis.md
 specificationVersion: "0.14"
 apis:
